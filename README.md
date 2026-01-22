@@ -1,16 +1,16 @@
 # Marketing-Campaign-Performance-ROI-Analysis
 An end-to-end marketing analytics project that evaluates campaign ROI, conversion efficiency, and profitability across multiple channels using Python-based data analysis and visualization.
 
-# 📢 Marketing Campaign Performance & ROI Analysis
+# Marketing Campaign Performance & ROI Analysis
 
-## 📌 Project Overview
+## Project Overview
 Marketing teams invest heavily across multiple channels, but not all campaigns deliver equal returns. This project analyzes **marketing campaign performance** to determine which channels generate the highest **Return on Investment (ROI)**, conversion efficiency, and profitability.
 
 The analysis helps businesses make **data-driven budget allocation decisions** and improve overall marketing effectiveness.
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 - Analyze campaign spending and revenue data
 - Calculate ROI and conversion rates
 - Compare performance across marketing channels
@@ -19,7 +19,7 @@ The analysis helps businesses make **data-driven budget allocation decisions** a
 
 ---
 
-## 🗂️ Dataset Description
+##  Dataset Description
 The dataset contains campaign-level marketing data including:
 - Marketing Channel
 - Campaign Cost
@@ -32,7 +32,7 @@ Each row represents a unique marketing campaign.
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - **Python**
 - **Pandas** – data manipulation
 - **NumPy** – numerical calculations
@@ -41,7 +41,7 @@ Each row represents a unique marketing campaign.
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 1. **Data Loading**
    - Imported CSV data into Pandas DataFrame
 
@@ -70,7 +70,7 @@ Each row represents a unique marketing campaign.
 
 ---
 
-## 📊 Key Business Questions Answered
+##  Key Business Questions Answered
 - Which marketing channel delivers the highest ROI?
 - How does ROI vary across campaigns?
 - Which channels are most consistent performers?
@@ -78,7 +78,7 @@ Each row represents a unique marketing campaign.
 
 ---
 
-## 📈 Key Visualizations
+##  Key Visualizations
 - Average ROI by marketing channel
 - ROI distribution using box plots
 - Conversion rate comparison across channels
@@ -86,5 +86,5 @@ Each row represents a unique marketing campaign.
 
 ---
 
-## 💰 ROI & Profitability Logic
+## ROI & Profitability Logic
 - **ROI Formula:**  
